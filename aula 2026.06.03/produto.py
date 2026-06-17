@@ -19,7 +19,3 @@ p1 = Produto('Cadeira Gamer', 20, 990.00)
 p1.quantidade = 10
 print(p1.quantidade)
 
-
-
-
-
