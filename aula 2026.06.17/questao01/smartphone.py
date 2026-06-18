@@ -24,7 +24,6 @@ class Smartphone:
         if novo_percentual > 0:
             self._bateria_percentual = novo_percentual
 
-    # Método especial que retorna um texto ao 
-    # invés do valor de referência do objeto.
+    # Método especial que retorna um texto ao invés do valor de referência do objeto.
     def __str__(self):
         return self._marca
